@@ -14,7 +14,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 to run the project 
 //use commands
-cd cd creative-upaay-dashboard
+cd dashboard_design_task-main ( or ) cd selectedfolder name 
 npm install 
 npm run dev 
 //project will open in browser with port number 
